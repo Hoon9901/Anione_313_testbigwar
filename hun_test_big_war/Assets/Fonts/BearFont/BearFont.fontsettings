@@ -1,0 +1,219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!128 &12800000
+Font:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: BearFont
+  serializedVersion: 5
+  m_LineSpacing: 32
+  m_DefaultMaterial: {fileID: 21024661820211600}
+  m_FontSize: 32
+  m_Texture: {fileID: 0}
+  m_AsciiStartOffset: 0
+  m_Tracking: 1
+  m_CharacterSpacing: 0
+  m_CharacterPadding: 1
+  m_ConvertCase: 0
+  m_CharacterRects:
+  - serializedVersion: 2
+    index: 48
+    uv:
+      serializedVersion: 2
+      x: 0.203125
+      y: 0.77734375
+      width: 0.203125
+      height: 0.22265625
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 52
+      height: -57
+    advance: 52
+    flipped: 0
+  - serializedVersion: 2
+    index: 49
+    uv:
+      serializedVersion: 2
+      x: 0.5859375
+      y: 0.7890625
+      width: 0.13671875
+      height: 0.2109375
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 35
+      height: -54
+    advance: 35
+    flipped: 0
+  - serializedVersion: 2
+    index: 50
+    uv:
+      serializedVersion: 2
+      x: 0.41015625
+      y: 0.78515625
+      width: 0.171875
+      height: 0.21484375
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 44
+      height: -55
+    advance: 44
+    flipped: 0
+  - serializedVersion: 2
+    index: 51
+    uv:
+      serializedVersion: 2
+      x: 0.7265625
+      y: 0.79296875
+      width: 0.1640625
+      height: 0.20703125
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 42
+      height: -53
+    advance: 42
+    flipped: 0
+  - serializedVersion: 2
+    index: 52
+    uv:
+      serializedVersion: 2
+      x: 0.16796875
+      y: 0.56640625
+      width: 0.18359375
+      height: 0.203125
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 47
+      height: -52
+    advance: 47
+    flipped: 0
+  - serializedVersion: 2
+    index: 53
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.5625
+      width: 0.1640625
+      height: 0.20703125
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 42
+      height: -53
+    advance: 42
+    flipped: 0
+  - serializedVersion: 2
+    index: 54
+    uv:
+      serializedVersion: 2
+      x: 0.70703125
+      y: 0.5859375
+      width: 0.16796875
+      height: 0.19921875
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 43
+      height: -51
+    advance: 43
+    flipped: 0
+  - serializedVersion: 2
+    index: 55
+    uv:
+      serializedVersion: 2
+      x: 0.53125
+      y: 0.58203125
+      width: 0.171875
+      height: 0.19921875
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 44
+      height: -51
+    advance: 44
+    flipped: 0
+  - serializedVersion: 2
+    index: 56
+    uv:
+      serializedVersion: 2
+      x: 0.35546875
+      y: 0.5703125
+      width: 0.171875
+      height: 0.203125
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 44
+      height: -52
+    advance: 44
+    flipped: 0
+  - serializedVersion: 2
+    index: 57
+    uv:
+      serializedVersion: 2
+      x: 0
+      y: 0.7734375
+      width: 0.19921875
+      height: 0.2265625
+    vert:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 51
+      height: -58
+    advance: 51
+    flipped: 0
+  m_KerningValues: []
+  m_PixelScale: 0.1
+  m_FontData: 
+  m_Ascent: 26
+  m_Descent: -6
+  m_DefaultStyle: 0
+  m_FontNames: []
+  m_FallbackFonts: []
+  m_FontRenderingMode: 0
+--- !u!21 &21024661820211600
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Font Material
+  m_Shader: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b2c6f3488aead5149bb266baff684988, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

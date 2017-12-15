@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: e42c11426d511e34788b3c1954be037e
+timeCreated: 1495590379
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PinkBin_Walk_0
+    21300002: PinkBin_Walk_1
+    21300004: PinkBin_Walk_2
+    21300006: PinkBin_Walk_3
+    21300008: PinkBin_Walk_4
+    21300010: PinkBin_Walk_5
+    21300012: PinkBin_Walk_6
+    21300014: PinkBin_Walk_7
+    21300016: PinkBin_Walk_8
+    21300018: PinkBin_Walk_9
+    21300020: PinkBin_Walk_10
+    21300022: PinkBin_Walk_11
+    21300024: PinkBin_Walk_12
+    21300026: PinkBin_Walk_13
+    21300028: PinkBin_Walk_14
+    21300030: PinkBin_Walk_15
+    21300032: PinkBin_Walk_16
+    21300034: PinkBin_Walk_17
+    21300036: PinkBin_Walk_18
+    21300038: PinkBin_Walk_19
+    21300040: PinkBin_Walk_20
+    21300042: PinkBin_Walk_21
+    21300044: PinkBin_Walk_22
+    21300046: PinkBin_Walk_23
+    21300048: PinkBin_Walk_24
+    21300050: PinkBin_Walk_25
+    21300052: PinkBin_Walk_26
+    21300054: PinkBin_Walk_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PinkBin_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 94
+        width: 5
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 84
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 87
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 108
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 103
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 89
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 110
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 0
+        width: 102
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 0
+        width: 87
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 89
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 0
+        width: 108
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 101
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 0
+        width: 87
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 0
+        width: 109
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 2146
+        y: 0
+        width: 102
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 0
+        width: 84
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 87
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 0
+        width: 112
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 0
+        width: 104
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 0
+        width: 83
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 0
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 0
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 0
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PinkBin_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 0
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 58e717db80596064eaf728c85ddeebb2
+timeCreated: 1499131049
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NooNoo_Walk_0
+    21300002: NooNoo_Walk_1
+    21300004: NooNoo_Walk_2
+    21300006: NooNoo_Walk_3
+    21300008: NooNoo_Walk_4
+    21300010: NooNoo_Walk_5
+    21300012: NooNoo_Walk_6
+    21300014: NooNoo_Walk_7
+    21300016: NooNoo_Walk_8
+    21300018: NooNoo_Walk_9
+    21300020: NooNoo_Walk_10
+    21300022: NooNoo_Walk_11
+    21300024: NooNoo_Walk_12
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NooNoo_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 304
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 306
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 305
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 300
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 315
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 0
+        width: 305
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 0
+        width: 306
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 0
+        width: 307
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 0
+        width: 306
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 306
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 0
+        width: 307
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 0
+        width: 316
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: NooNoo_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 0
+        width: 304
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

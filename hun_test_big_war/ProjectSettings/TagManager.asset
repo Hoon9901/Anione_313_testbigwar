@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StoreButton
+  - StageButton
+  - StartButton
+  - ExitButton
+  - Hero
+  - Enemy
+  - Effect
+  - CheckBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3063067381
+    locked: 0
+  - name: Back
+    uniqueID: 2318735735
+    locked: 0
+  - name: Mid
+    uniqueID: 3860451957
+    locked: 0
+  - name: Face
+    uniqueID: 1912482081
+    locked: 0
+  - name: Sprite
+    uniqueID: 653349659
+    locked: 0
+  - name: Effect
+    uniqueID: 4264304981
+    locked: 0
+  - name: UI
+    uniqueID: 2558792283
+    locked: 0
